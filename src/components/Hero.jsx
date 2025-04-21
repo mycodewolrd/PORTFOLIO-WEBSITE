@@ -70,7 +70,7 @@ export default function Hero() {
           className="flex-1 flex justify-center md:justify-end mt-10 md:mt-0 relative"
         >
           {/* Background Shape Behind Image */}
-          <div className="absolute -z-10 w-72 h-72 bg-gradient-to-br from-purple-600 to-pink-500 rounded-full blur-3xl opacity-60 top-10 right-10"></div>
+          <div className="absolute -z-10 w-72 h-72 bg-gradient-to-br from-purple-600 to-pink-500 rounded-full blur-3xl opacity-60 top-10 right-10 hidden md:block"></div>
 
           {/* Hero Image */}
           <img
