@@ -5,7 +5,7 @@ import Adam from "/Adam.pdf";
 
 export default function Hero() {
   return (
-    <div className="relative overflow-hidden min-h-[550px] sm:min-h-[600px] flex flex-col items-center">
+    <div className="min-h-screen relative overflow-hidden flex flex-col items-center">
       <main
         id="home"
         className="flex flex-col md:flex-row items-center justify-center w-full px-4 
