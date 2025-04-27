@@ -56,7 +56,7 @@ export default function Projects() {
       title: "Social Media Strategy Plan",
       description:
         "Created a comprehensive social media strategy for a brand, focusing on content planning, audience targeting, and platform-specific growth tactics.",
-      link: "",
+      link: "https://keyword-research-project.my.canva.site/social-marketing-strategy-plan",
     },
     {
       image: project3,
