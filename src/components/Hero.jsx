@@ -1,7 +1,7 @@
 import imghero from "/imghero.png";
 import github from "/github.png";
 import linkedin from "/linkedin.png";
-import Resume from "/Rajnandini_Resume.pdf";
+import Resume from "/Resume_Rajandini.pdf";
 
 export default function Hero() {
   return (
